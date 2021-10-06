@@ -10,4 +10,7 @@ Please submit your solution in a 5 slide PPT:
 4) How many days should the CTO ask to do this?
 5) How many people should the CTO hire for this job and what are the technical skills of your teammates for his task?
 
+[assign.pptx](https://github.com/amiteshkr63/ASSIGNMENT/files/7295946/assign.pptx)
+
+
 
